@@ -1,4 +1,4 @@
-# Random Password Generator
+# Calculator
 
 Used python programming and Tkinter GUI Toolkit to develop this desktop Random password generator application.
 
